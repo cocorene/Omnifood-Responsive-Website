@@ -36,23 +36,9 @@ body {
 /* ------------- Header ---------------- */
 
 header {
-<<<<<<< HEAD
-  <<<<<<< HEAD background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('http://i569.photobucket.com/albums/ss134/cocorenedesign/hero.jpg');
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('http://i569.photobucket.com/albums/ss134/cocorenedesign/hero.jpg');
-  =======/*background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/img/hero.jpg);*/
-  /*background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/img/hero.jpg);*/
-  >>>>>>> origin/master background-size: cover;
-=======
-<<<<<<< HEAD
   background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('http://i569.photobucket.com/albums/ss134/cocorenedesign/hero.jpg');
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('http://i569.photobucket.com/albums/ss134/cocorenedesign/hero.jpg');
-=======
-  /*background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/img/hero.jpg);*/
-  /*background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/img/hero.jpg);*/
-  /*background-image: url("http://i569.photobucket.com/albums/ss134/cocorenedesign/hero.jpg");*/
->>>>>>> origin/master
   background-size: cover;
->>>>>>> origin/master
   background-position: center;
   height: 100vh;
   background-attachment: fixed;
@@ -447,8 +433,8 @@ input[type=submit]:active {
 /* ------------- Testimonials ---------------- */
 
 .section-testimonials {
-  background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../img/back-customers.jpg');
-  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../img/back-customers.jpg');
+  background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('http://i569.photobucket.com/albums/ss134/cocorenedesign/back-customers.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('http://i569.photobucket.com/albums/ss134/cocorenedesign/back-customers.jpg');
   background-size: cover;
   color: #fff;
   background-attachment: fixed;
@@ -636,6 +622,20 @@ footer {
 
 .footer-nav li a:hover,
 .footer-nav li a:active {
+  color: #ddd;
+}
+
+footer p a:link,
+footer p a:visited {
+  text-decoration: none;
+  border: 0;
+  color: #888;
+  -webkit-transition: color 0.2s;
+  transition: color 0.2s;
+}
+
+footer p a:hover,
+footer p a:active {
   color: #ddd;
 }
 

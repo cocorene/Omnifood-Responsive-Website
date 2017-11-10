@@ -36,8 +36,8 @@ body {
 /* ------------- Header ---------------- */
 
 header {
-  background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://drive.google.com/open?id=1ftze-WSWrG946ytY8V0ke8Nc8knuhsyG');
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://drive.google.com/open?id=1ftze-WSWrG946ytY8V0ke8Nc8knuhsyG');
+  background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('hero.JPG');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('hero.JPG');
   background-size: cover;
   background-position: center;
   height: 100vh;

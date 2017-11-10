@@ -433,8 +433,8 @@ input[type=submit]:active {
 /* ------------- Testimonials ---------------- */
 
 .section-testimonials {
-  background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('https://drive.google.com/open?id=1YZBH3ys3v-VZGWYCICoLnDqUvdXdPx-Z');
-  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('https://drive.google.com/open?id=1YZBH3ys3v-VZGWYCICoLnDqUvdXdPx-Z');
+  background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('https://cdn.shopify.com/s/files/1/1409/0192/files/back-customers.JPG?7247687822247111969');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('https://cdn.shopify.com/s/files/1/1409/0192/files/back-customers.JPG?7247687822247111969');
   background-size: cover;
   color: #fff;
   background-attachment: fixed;

@@ -36,8 +36,8 @@ body {
 /* ------------- Header ---------------- */
 
 header {
-  background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://cdn.shopify.com/s/files/1/1409/0192/files/hero.JPG?7247687822247111969');
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://cdn.shopify.com/s/files/1/1409/0192/files/hero.JPG?7247687822247111969');
+  background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('/img/hero.JPG');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('/img/hero.JPG');
   background-size: cover;
   background-position: center;
   height: 100vh;
